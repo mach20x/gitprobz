@@ -1,1 +1,2 @@
-puts "hello world"
+man = "hohoho"
+puts "Hello world"
